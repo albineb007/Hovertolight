@@ -7,7 +7,7 @@
 
 **Overview**
 
-Hovertolight is a GitHub repository that utilizes CSS and JavaScript to create an interactive grid of small boxes. These boxes light up and display various colors and effects when hovered over by the user.
+Hovertolight is a Web Project that utilizes CSS and JavaScript to create an interactive grid of small boxes. These boxes light up and display various colors and effects when hovered over by the user.
 
 **Features**
 
