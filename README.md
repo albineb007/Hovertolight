@@ -54,4 +54,4 @@ We welcome contributions! If you have ideas to enhance Hovertolight, submit a pu
 This project is licensed under the MIT License. Refer to the `LICENSE` file for details.
 
 
-**Happy coding!
+**
